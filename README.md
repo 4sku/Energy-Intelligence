@@ -8,14 +8,14 @@ A Tool Chain for Carbon and GHG Accounting Automation
 Insights into the energy use of manufacturing processes and the emissions from electricity generation can be gained by automating carbon and greenhouse gas accounting. For example, using smart meters, industrial machinery, and power distribution units to monitor energy use and emissions can provide a comprehensive picture of energy usage and emissions. The information can then be used to improve sustainability.
 
 
-## Automating Carbon and GHG Accounting
-
-Using emerging technology, we can quickly and easily determine how much energy is used to manufacture the products you buy or what greenhouse gases (GHG) and carbon dioxide (CO2) your electricity generates. Automating, Integrating, Distributing, and Acting on that information is, however, necessary to realize environmental and economic benefits from this data.
-
-
 ## What is Carbon and GHG Accounting?
 
 Carbon and greenhouse gas accounting measures the energy used in manufacturing processes and the emissions from local or on-grid power sources. 
+
+
+## Automating Carbon and GHG Accounting
+
+Using emerging technology, we can quickly and easily determine how much energy is used to manufacture the products you buy or what greenhouse gases (GHG) and carbon dioxide (CO2) your electricity generates. Automating, Integrating, Distributing, and Acting on that information is, however, necessary to realize environmental and economic benefits from this data.
 
 
 ## Measuring the source of manufacture
