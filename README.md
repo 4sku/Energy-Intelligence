@@ -17,6 +17,10 @@ Carbon and GHG Accounting Automation
 * Integrate production data with scope3 data by stamping job start/stop times on web3 dapps, web2 web portals, web2 APIs, and operator text messages
 * Data visualization and graphing for products, machines, and factories
 
-## Learn More
+## Learn More 
+https://www.4sku.io/about
 
-https://www.4sku.io
+
+## Connect 
+Discord - https://discord.gg/APQP9xZa
+email - https://www.4sku.io/contact-us
