@@ -3,9 +3,9 @@ Carbon and GHG Accounting Automation
 
 ## Objectives 
 * Measure the energy used in manufacturing processes transparently,
-* NAnalyze local (solar/wind) or on-grid data sources for Green House Gases (GHG) and Carbon dioxide (CO2)
+* Analyze local (solar/wind) or on-grid data sources for Green House Gases (GHG) and Carbon dioxide (CO2)
 * Make Scope3 data available in tokenized data containers and digital twins
-* Transfer Scope3 power data over out-of-band IOT networks
+* Transfer Scope3 power data over out-of-band IoT networks
 
 ## Methods
 * Monitoring of industrial machinery and power distribution units using inductive power
