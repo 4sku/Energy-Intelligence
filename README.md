@@ -64,7 +64,7 @@ While web3-enabled DLT is still in its early stages of development, it holds gre
 
 ## Learn More 
 
-https://www.4sku.io/about
+4Sku Mission - [https://www.4sku.io/about](https://www.4sku.io/about)
 
 
 ## Connect 
