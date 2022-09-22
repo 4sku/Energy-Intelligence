@@ -69,6 +69,8 @@ https://www.4sku.io/about
 
 ## Connect 
 
-Discord - https://discord.gg/APQP9xZa
+Project Kanban - [https://github.com/orgs/4sku/projects/1](https://github.com/orgs/4sku/projects/1)
 
-Email - https://www.4sku.io/contact-us
+Discord - [https://discord.gg/APQP9xZa](https://discord.gg/APQP9xZa)
+
+Email - [https://www.4sku.io/contact-us](https://www.4sku.io/contact-us)
